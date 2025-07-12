@@ -1,13 +1,25 @@
-# Lifo Pic Project 🎨
+# 🎨 Lifo Pic Project
 
-A Python script that transforms a headshot into a cartoonish lofi aesthetic image using OpenCV and Pillow.
+Transform your headshot into a **cartoonish lofi aesthetic** using Python, OpenCV, and Pillow.
 
-## Features
-- Cartoon-style effect with edge detection
-- Warm color tones
-- Grain and vignette overlays
+This project applies:
+- 🖍️ Cartoon-style edge detection  
+- 🔥 Warm color toning  
+- ✨ Grain + vignette overlays for that cozy lofi vibe
 
-## Usage
+---
+
+## 🛠️ Features
+
+- Convert portraits into cartoon-style images
+- Apply warm tones reminiscent of vintage/lofi art
+- Add grain and vignette for texture and focus
+
+---
+
+## 📦 Requirements
+
+Install dependencies using:
 
 ```bash
-python
+pip install -r requirements.txt
