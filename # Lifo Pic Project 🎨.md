@@ -23,3 +23,12 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+opencv-python
+Pillow
+numpy
+
+python lifo_pic_proj.py input.jpg output.jpg
+
+
+python lifo_pic_proj.py picproj.jpg picproj_lofi.jpg
