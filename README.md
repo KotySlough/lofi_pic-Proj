@@ -1,4 +1,4 @@
-# 🎨 Lifo Pic Project
+# 🎨 Lofi Pic Project
 
 Transform your headshot into a **cartoonish lofi aesthetic** using Python, OpenCV, and Pillow.
 
