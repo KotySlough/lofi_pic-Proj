@@ -11,9 +11,9 @@ This project applies:
 
 ## 🛠️ Features
 
-- Convert portraits into cartoon-style images
-- Apply warm tones reminiscent of vintage/lofi art
-- Add grain and vignette for texture and focus
+- Convert portraits into cartoon-style images  
+- Apply warm tones reminiscent of vintage/lofi art  
+- Add grain and vignette for texture and focus  
 
 ---
 
@@ -23,12 +23,3 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
-opencv-python
-Pillow
-numpy
-
-python lifo_pic_proj.py input.jpg output.jpg
-
-
-python lifo_pic_proj.py picproj.jpg picproj_lofi.jpg
